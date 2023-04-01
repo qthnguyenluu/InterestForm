@@ -1,0 +1,5 @@
+We want to implement a web application that can calculate the interest earned on an invested amount.
+A form that looks something like this should be displayed.
+
+- The application runs in the browser under Java 17 and "localhost:8080"
+- To improve the result, the state of the application should be kept by using the SessionAttributes.
